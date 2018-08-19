@@ -1,0 +1,14 @@
+{
+    "response": [
+        {
+            "valor_cedula": "50",
+            "quantidade": 1
+        },
+        {
+            "valor_cedula": "10",
+            "quantidade": 1
+        }
+    ],
+    "responseMessage": "Sucesso",
+    "responseStatus": "OK"
+}

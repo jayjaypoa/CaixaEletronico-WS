@@ -1,0 +1,30 @@
+{
+    "response": [
+        {
+            "simbolo": "R$",
+            "descricao": "CEM",
+            "valorMonetario": 100,
+            "quantidade": 200
+        },
+        {
+            "simbolo": "R$",
+            "descricao": "CINQUENTA",
+            "valorMonetario": 50,
+            "quantidade": 200
+        },
+        {
+            "simbolo": "R$",
+            "descricao": "VINTE",
+            "valorMonetario": 20,
+            "quantidade": 200
+        },
+        {
+            "simbolo": "R$",
+            "descricao": "DEZ",
+            "valorMonetario": 10,
+            "quantidade": 200
+        }
+    ],
+    "responseMessage": "Sucesso",
+    "responseStatus": "OK"
+}
